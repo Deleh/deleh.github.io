@@ -1,3 +1,6 @@
 [submodule "socialize"]
 	path = socialize
 	url = https://github.com/Deleh/socialize
+[submodule "pizzacalc"]
+	path = pizzacalc
+	url = git@github.com:Deleh/pizzacalc.git

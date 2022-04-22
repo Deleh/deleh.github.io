@@ -2,4 +2,5 @@
 
   Things hosted here:
 
-  | socialize | [[https://github.com/Deleh/socialize][repository]] | [[https://deleh.github.io/socialize][link]]  |
+  | socialize | [[https://github.com/Deleh/socialize][repository]] | [[https://deleh.github.io/socialize][link]] |
+  | pizzacalc | [[https://github.com/Deleh/pizzacalc][repository]] | [[https://deleh.github.io/pizzacalc][link]] |
